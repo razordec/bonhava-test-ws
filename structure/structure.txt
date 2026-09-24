@@ -1,0 +1,16 @@
+The structure includes:
+
+- Corporate hero section
+- About Bonhava Group Holdings
+- Subsidiary company portfolio:
+  - Gym and fitness
+  - Clothing and fashion
+  - Coffee shop
+  - Sports shop
+  - Properties
+  - Workshop
+  - Parts shop
+- Group values
+- Contact form
+- Responsive mobile navigation
+- Professional corporate styling with editable placeholders
